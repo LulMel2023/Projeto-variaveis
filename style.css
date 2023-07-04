@@ -1,0 +1,24 @@
+body{
+
+    display: block;
+    margin: 100px;
+    text-align: center;
+    height: 400px;
+    width: 400px;
+    font-size: large;
+    color: rgb(230, 15, 51);
+    
+
+}
+
+div{
+
+    background-color: rgb(165, 237, 250);
+    width: 400px;
+    height: 200px;
+    padding: 200px;
+        
+}
+
+
+
